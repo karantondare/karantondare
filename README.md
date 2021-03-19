@@ -1,6 +1,6 @@
 ### नमस्कार 🙏
 
-- 🌱 I’m currently learning how to build app with MERN stack.
+- 🌱 I’m currently learning backend technologies.
 - 👯 I’m looking to collaborate on React.
 - 🤔 I’m looking forward to learn flutter.
 - 💬 Ask me about anything Books, Esports, Web-Dev.
