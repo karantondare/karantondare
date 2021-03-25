@@ -11,6 +11,7 @@
 - 🤔 I’m looking forward to learn flutter.
 - ⚡ Fun fact: I love eSports and reading books.
 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,6 +19,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -39,7 +41,13 @@
 
 
 <br />
-<br />
+
+
+### :chart_with_upwards_trend: The STATS 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karantondare&show_icons=true&count_private=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karantondare&theme=highcontrast)
 
 [website]: https://karantondare.vercel.app/
 [kodevents]: https://kodevents.vercel.app/
