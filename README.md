@@ -1,14 +1,14 @@
 
 
-### नमस्कार, I'm [Karan][website] 👋
+# नमस्कार, I'm [Karan][website] 👋
 
-## I'm a Web Developer!!
+### I'm a Web Developer!!
 
 - 🔭 I am working on a tech events app [Kodevents][kodevents]
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with others on Reactjs.
 - 🥅 2021 Goals: Learn and contribute more to Open Source projects.
-- 🤔 I’m looking forward to learn flutter.
+- 🤔 I’m looking forward to learn data visualization and flutter.
 - ⚡ Fun fact: I love eSports and reading books.
 
 
