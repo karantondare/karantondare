@@ -4,9 +4,9 @@
 
 ### I'm a Web Developer!!
 
-- 🔭 I am working on a tech events app [Kodevents][kodevents]
+- 🔭 I am working on a react, redux and typescript.
 - 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with others on Reactjs.
+- 👯 I’m looking to collaborate with others on Reactjs and TypeScript.
 - 🥅 2021 Goals: Learn and contribute more to Open Source projects.
 - 🤔 I’m looking forward to learn data visualization and flutter.
 - ⚡ Fun fact: I love eSports and reading books.
@@ -29,6 +29,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
