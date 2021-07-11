@@ -48,8 +48,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karantondare&show_icons=true&count_private=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karantondare&theme=highcontrast)
-
 [website]: https://karantondare.vercel.app/
 [kodevents]: https://kodevents.vercel.app/
 [twitter]: https://twitter.com/karantondare
