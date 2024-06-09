@@ -2,19 +2,18 @@
 
 # नमस्कार, I'm [Karan][website] 👋
 
-### I'm a Web Developer!!
+### Welcome to my GitHub space! This repository serves as a portfolio of my work in various technologies and programming languages.
 
-- 🔭 I am working on a react, redux and typescript.
-- 🌱 I’m currently learning react native.😬
-- 👯 I’m looking to collaborate with others on Reactjs and TypeScript.
-- 🥅 2021 Goals: Learn and contribute to Open Source projects.
-- 🤔 I’m looking forward to learn data visualization.
-- ⚡ Fun fact: I love eSports and reading books.
+### My go-to gear includes:
+
+- JavaScript: Making the web a better place, one line of code at a time.
+- TypeScript: Because safety first isn't just for seatbelts.
+- React: Crafting dynamic and reactive UIs like a wizard.
+- React Native: Bringing the power of React to mobile apps.
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
